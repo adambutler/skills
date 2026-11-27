@@ -1,0 +1,8 @@
+{
+  "name": "adambutler-skills",
+  "version": "0.1.0",
+  "description": "Adam Butler's agent skills.",
+  "author": { "name": "Adam Butler" },
+  "repository": "https://github.com/adambutler/skills",
+  "license": "MIT"
+}

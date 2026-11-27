@@ -1,0 +1,12 @@
+{
+  "name": "adambutler",
+  "owner": { "name": "Adam Butler" },
+  "description": "Adam Butler's agent skills.",
+  "plugins": [
+    {
+      "name": "adambutler-skills",
+      "source": "./",
+      "description": "Adam Butler's agent skills."
+    }
+  ]
+}
