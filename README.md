@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`rebase`](skills/rebase/SKILL.md) | Rebases onto the latest base branch, resolves conflicts, force-pushes with lease and checks the PR description still matches. |
 | [`break-it-down`](skills/break-it-down/SKILL.md) | A layered explanation for a context-switched engineer: plain gist first, then more depth so you can stop when you've got enough. |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
 | [`tone-of-voice`](skills/tone-of-voice/SKILL.md) | My writing voice for docs and proposals: concise, plain, grounded, and free of AI-tell phrasing. |
