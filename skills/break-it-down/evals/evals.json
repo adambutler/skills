@@ -1,0 +1,17 @@
+{
+  "skill_name": "break-it-down",
+  "evals": [
+    {
+      "id": 0,
+      "prompt": "break it down for me: in React Query, what's the actual difference between using `select` versus just transforming the data inside the queryFn, and why would it matter? my react is rusty.",
+      "expected_output": "A self-contained layered explanation pitched at a rusty-React reader: plain gist first, brief orientation on what queryFn/select/cache are, separates concerns (what's cached vs what a component sees), mechanics, then the why (shared cache key with divergent shapes causing bugs). Doesn't over-explain, doesn't assume deep React fluency. Sectioned, emoji, lists.",
+      "files": []
+    },
+    {
+      "id": 1,
+      "prompt": "I'm an experienced Rails dev but I've never had to reason about it deeply \u2014 break down how Sidekiq's retry mechanism and the dead set actually work, and what I should watch out for before I lean on retries in production.",
+      "expected_output": "A layered explanation for a strong Rails dev: gist, context, separated concerns (retry schedule, retry exhaustion, dead set, idempotency), mechanics with the relevant knobs, and a strong why/gotchas section (idempotency, exponential backoff, poison jobs). Assumes Ruby fluency, doesn't explain basics. Sectioned, emoji, right-sized.",
+      "files": []
+    }
+  ]
+}
