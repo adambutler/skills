@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`break-it-down`](skills/break-it-down/SKILL.md) | A layered explanation for a context-switched engineer: plain gist first, then more depth so you can stop when you've got enough. |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
 
 ## 🛠️ Adding a skill
