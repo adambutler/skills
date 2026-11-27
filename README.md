@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`must-should-could`](skills/must-should-could/SKILL.md) | Presents a list of findings grouped as Must / Should / Could (or P1-P4), numbered so you can reply "do 1 and 3". |
 | [`rebase`](skills/rebase/SKILL.md) | Rebases onto the latest base branch, resolves conflicts, force-pushes with lease and checks the PR description still matches. |
 | [`break-it-down`](skills/break-it-down/SKILL.md) | A layered explanation for a context-switched engineer: plain gist first, then more depth so you can stop when you've got enough. |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
