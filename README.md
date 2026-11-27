@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`rebase`](skills/rebase/SKILL.md) | Rebases onto the latest base branch, resolves conflicts, force-pushes with lease and checks the PR description still matches. |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
 
 ## 🛠️ Adding a skill
