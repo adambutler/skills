@@ -46,6 +46,7 @@ npx skills@latest update                           # update
 | Skill | What it does |
 | --- | --- |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
+| [`tone-of-voice`](skills/tone-of-voice/SKILL.md) | My writing voice for docs and proposals: concise, plain, grounded, and free of AI-tell phrasing. |
 
 ## 🛠️ Adding a skill
 
