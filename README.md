@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`must-should-could`](skills/must-should-could/SKILL.md) | Presents a list of findings grouped as Must / Should / Could (or P1-P4), numbered so you can reply "do 1 and 3". |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
 
 ## 🛠️ Adding a skill
