@@ -45,6 +45,7 @@ npx skills@latest update                           # update
 
 | Skill | What it does |
 | --- | --- |
+| [`address-pr-review-feedback`](skills/address-pr-review-feedback/SKILL.md) | Triages PR review comments into numbered, prioritised options, then applies only the ones you pick. |
 | [`tldr`](skills/tldr/SKILL.md) | Re-explains the last answer as a one-line summary plus a few plain-language bullets. |
 
 ## 🛠️ Adding a skill
